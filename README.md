@@ -1,10 +1,35 @@
-<p align="center"><img width=200 src="https://user-images.githubusercontent.com/18419093/67547105-1b04b280-f739-11e9-8326-59e2561da6aa.jpeg"></p>
+# android-flux
 
-# Awesome-Android
+## Architecture
 
-## Un
+<img src="https://user-images.githubusercontent.com/18419093/71554272-96981e00-2a60-11ea-8c64-af8dfd9b1f0d.png" width=400>
 
-- Using Coroutine / Ktor / Kotlin.serializor etc...
-- Architecture is MVVM + UseCase
+[reference](https://github.com/lgvalle/android-flux-todo-app)
 
-<img src="https://github.com/trickring/Awesome-Android/blob/master/Un/resource/Architecture.png" width=200>
+## Credit
+
+- Kotlin Support
+  - Coroutine
+  - Kotlin Extensions
+- Android Architecture Component
+  - LiveData
+  - ViewModel
+  - Navigation
+- UI
+  - Groupie
+- Network Client
+  - Retrofit
+  - OkHttp
+- Image Downloader/Cache
+  - Glide
+- JSON Serialize
+  - Kotlin serialization
+- Dependency Injection
+  - Koin
+- Logger
+  - Timber
+- Network Capture
+  - OkHttp-interceptor
+  - Chuck
+- Debug Menu
+  - Hyperion-Android
